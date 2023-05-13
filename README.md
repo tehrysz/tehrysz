@@ -1,5 +1,5 @@
 
-<img src="https://media.rawg.io/media/games/be9/be91ffd68268a5514b119a62170686be.jpg" />
+<img src="https://media.rawg.io/media/games/be9/be91ffd68268a5514b119a62170686be.jpg" width="500"  />
 <img src="https://i.imgur.com/kDndQ6I.jpg" width="300" /> <img src="https://static.wikia.nocookie.net/megamitensei/images/5/58/TatsuyaISSmile.png/revision/latest?cb=20140209175141" width="100" />
 
 <a href="https://www.linkedin.com/in/anna-j%C3%BAlia-cobacho-gon%C3%A7alves-1aa109275/">
