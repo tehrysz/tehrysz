@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about web development
 - 💬 Ask me about anything and everything, get in touch!
-- 📫 How to reach me: <a>annacobachojulia@gmail.com</a>
+- 📫 How to reach me: <a>tehryszt@gmail.com</a>
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I played all Shin Megami Tensei games (inclunding spin-offs) 🎣
 
