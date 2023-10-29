@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I played all Shin Megami Tensei games (inclunding spin-offs) 🎣
 
 ### My stats so far
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calixtocarolina&layout=compact&langs_count=7&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehrysz&layout=compact&langs_count=7&theme=vue"/>
