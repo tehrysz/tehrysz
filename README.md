@@ -5,7 +5,7 @@
 
 <img align="right" src="https://static.wikia.nocookie.net/megamitensei/images/b/b9/MayaISteenhappy.png/revision/latest?cb=20140209181656" width="200" />
 
-- 🌱 I’m currently learning about web development
+- 🌱 I’m currently learning about web development and Python
 - 💬 Ask me about anything and everything, get in touch!
 - 📫 How to reach me: <a>tehryszt@gmail.com</a>
 - 😄 Pronouns: She / Her
